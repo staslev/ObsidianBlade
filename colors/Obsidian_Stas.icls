@@ -10,20 +10,20 @@
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="293134" />
-    <option name="FILESTATUS_ADDED" value="629755" />
+    <option name="FILESTATUS_ADDED" value="199719" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5101a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5101a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5101a" />
     <option name="FILESTATUS_MERGED" value="9876aa" />
-    <option name="FILESTATUS_MODIFIED" value="32a0" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="32a0" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="32a0" />
-    <option name="FILESTATUS_UNKNOWN" value="d1675a" />
-    <option name="FILESTATUS_addedOutside" value="629755" />
-    <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="FILESTATUS_MODIFIED" value="3fca" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3fca" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="3fca" />
+    <option name="FILESTATUS_UNKNOWN" value="ac3d33" />
+    <option name="FILESTATUS_addedOutside" value="43bbd6" />
+    <option name="FILESTATUS_changelistConflict" value="d5101a" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="293134" />
     <option name="INDENT_GUIDE" value="804000" />
