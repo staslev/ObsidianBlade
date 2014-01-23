@@ -6,6 +6,8 @@ Various life improving settings for the IntelliJ IDE
 Color Scheme
 ------------
 
+![Obsidian based color scheme](https://raw2.github.com/staslev/IntellijSettings/master/colors/color-scheme.png "Obsidian based color scheme")
+
 A spin off the classic [Obsidian] (http://ideacolorthemes.org/themes/2/) with some teaking of colors I found a bit off (VSC annotation, breakpoint colors, identifier under caret and so on).
 
 **To import the color scheme**:
