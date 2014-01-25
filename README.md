@@ -3,12 +3,14 @@ IntellijSettings
 
 Various life improving settings for the IntelliJ IDE
 
-ObsidianBlade colorsScheme
+ObsidianBlade color scheme
 ------------
 
 ![ObsidianBlade - Obsidian based color scheme](https://raw2.github.com/staslev/IntellijSettings/master/colors/color-scheme.png "ObsidianBlade")
 
-**ObsidianBlade** is a spin off the classic [Obsidian] (http://ideacolorthemes.org/themes/2/) with some tweaks I found to be eye pleasing and thus useful when spending hours working with code (VSC annotation colors, breakpoint colors, identifier under caret etc.).
+**ObsidianBlade** is a spin off the classic [Obsidian] (http://ideacolorthemes.org/themes/2/) the source of which I actually wanted to fork, but couldn't quite find the repo. Anyhow, thanks Morinar!
+
+ObsidianBlade introduces some fine-grained color changes I found to be eye pleasing and thus useful when spending hours working with code (VSC annotation colors, breakpoint colors, identifier under caret etc.).
 
 **To import the color scheme**:
 
