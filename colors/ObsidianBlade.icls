@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<scheme name="Obsidian-Stas" version="124" parent_scheme="Default">
+<scheme name="ObsidianBlade" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
-    <option name="ANNOTATIONS_COLOR" value="31bdf7" />
+    <option name="ANNOTATIONS_COLOR" value="db4c13" />
+    <option name="ANNOTATIONS_MERGED_COLOR" value="bd4a13" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="293134" />
