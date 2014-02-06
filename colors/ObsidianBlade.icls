@@ -31,7 +31,7 @@
     <option name="LINE_NUMBERS_COLOR" value="81969a" />
     <option name="METHOD_SEPARATORS_COLOR" value="2f393c" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
-    <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
+    <option name="RECURSIVE_CALL_ATTRIBUTES" value="b79600" />
     <option name="RIGHT_MARGIN_COLOR" value="fbfbfb" />
     <option name="SELECTED_INDENT_GUIDE" value="e0e2e4" />
     <option name="SELECTED_TEARLINE_COLOR" value="804000" />
@@ -51,7 +51,7 @@
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="78a050" />
+        <option name="FOREGROUND" value="20a054" />
       </value>
     </option>
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
