@@ -1,7 +1,7 @@
 ObsidianBlade - A Color scheme for IntellJ Idea
 -----------------------------------------------
 
-![ObsidianBlade - Obsidian based color scheme](https://raw2.github.com/staslev/IntellijSettings/master/colors/color-scheme.png "ObsidianBlade")
+![ObsidianBlade - Obsidian based color scheme](https://raw2.github.com/staslev/ObsidianBlade/master/colors/color-scheme.png "ObsidianBlade")
 
 **ObsidianBlade** is a spin off the classic [Obsidian] (http://ideacolorthemes.org/themes/2/) the source of which I actually wanted to fork, but couldn't quite find the repo. Anyhow, thanks Morinar!
 
