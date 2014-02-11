@@ -1,10 +1,5 @@
-IntellijSettings
-================
-
-Various life improving settings for the IntelliJ IDE
-
-ObsidianBlade color scheme
-------------
+ObsidianBlade - A Color scheme for IntellJ Idea
+-----------------------------------------------
 
 ![ObsidianBlade - Obsidian based color scheme](https://raw2.github.com/staslev/IntellijSettings/master/colors/color-scheme.png "ObsidianBlade")
 
