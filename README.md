@@ -1,4 +1,4 @@
-ObsidianBlade - A Color scheme for IntellJ Idea
+ObsidianBlade - A Color scheme for IntellJ IDEA
 -----------------------------------------------
 
 ![ObsidianBlade - Obsidian based color scheme](https://raw2.github.com/staslev/ObsidianBlade/master/colors/color-scheme.png "ObsidianBlade")
