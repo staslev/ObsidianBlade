@@ -13,7 +13,7 @@ ObsidianBlade introduces a fine-grained semantic color coding that allows one to
 Importing ObsidianBlade:
 ========================
 
-1.  Download and extract the sources ([ZIP file](https://github.com/staslev/ObsidianBlade/archive/master.zip))
-2.  Run <code>jar cfM settings.jar options colors 'IntelliJ IDEA Global Settings'</code> from within the <code>ObsidianBlade</code> direcotry.
-3.  From IntelliJ, go to <code>File</code> then <code>Import Settings</code> and specify the <code>settings.jar</code> file you've just created.
+1.  Download and extract the sources ([ObsidianBlade-master.zip](https://github.com/staslev/ObsidianBlade/archive/master.zip)).
+2.  Execute <code>buildSettings.sh</code> to generate a <code>settings.jar</code> file.
+3.  From IntelliJ, go to <code>File</code> then <code>Import Settings</code> and specify the <code>settings.jar</code> file you've just generated.
 
