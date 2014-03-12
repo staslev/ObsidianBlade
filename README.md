@@ -9,6 +9,7 @@ ObsidianBlade introduces a fine-grained semantic color coding that allows one to
 
 **ObsidianBlade-DraculaFriendly** is basically ObsidianBlade with some minor environmental changes that make it suitable for use with IntelliJ's built in Dracula theme.
 
+*ObsidianBlade* and *ObsidianBlade-DraculaFriendly* were both tested on IntelliJ 13.x
 
 Importing ObsidianBlade:
 ========================
