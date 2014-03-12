@@ -12,6 +12,7 @@
     <option name="CARET_ROW_COLOR" value="0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="293134" />
     <option name="FILESTATUS_ADDED" value="629755" />
+    <option name="FILESTATUS_COPIED" value="48c8a" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
@@ -142,7 +143,7 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="287bde" />
+        <option name="FOREGROUND" value="bbfff5" />
         <option name="EFFECT_COLOR" value="287bde" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -449,12 +450,12 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
-        <option name="BACKGROUND" value="804000" />
+        <option name="BACKGROUND" value="374449" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="287bde" />
+        <option name="FOREGROUND" value="bbfff5" />
         <option name="EFFECT_COLOR" value="287bde" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -474,7 +475,7 @@
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="66b2ff" />
+        <option name="FOREGROUND" value="bbfff5" />
         <option name="EFFECT_COLOR" value="287bde" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
