@@ -1,7 +1,12 @@
 ObsidianBlade - A color scheme for IntellJ IDEA
 -----------------------------------------------
 
+###Java
+
 ![ObsidianBlade - Obsidian based color scheme](https://raw2.github.com/staslev/ObsidianBlade/master/colors/ObsidianBlade-with-Java-1.png "ObsidianBlade for Java")
+
+###Scala
+
 ![ObsidianBlade - Obsidian based color scheme](https://raw2.github.com/staslev/ObsidianBlade/master/colors/ObsidianBlade-with-Scala-1.png "ObsidianBlade for Scala")
 ![ObsidianBlade - Obsidian based color scheme](https://raw2.github.com/staslev/ObsidianBlade/master/colors/ObsidianBlade-with-Scala-2.png "ObsidianBlade for Scala")
 
