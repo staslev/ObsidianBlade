@@ -23,3 +23,4 @@ Importing ObsidianBlade:
 
 1.  Download the latest [settings.jar](https://github.com/staslev/ObsidianBlade/raw/master/settings.jar).
 2.  From IntelliJ, go to <code>File</code> then <code>Import Settings</code> and specify the <code>settings.jar</code> file you've downloaded in the previous step.
+3.  (*Optional*) Download [Source Code Pro]("http://sourceforge.net/projects/sourcecodepro.adobe/files/SourceCodePro_FontsOnly-1.017.zip/download") to complement ObsidianBlade (and your IntelliJ in general), though things will still work if you don't.
