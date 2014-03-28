@@ -18,9 +18,16 @@ ObsidianBlade targets mainly <code>Java</code> and <code>Scala</code> (and some 
 
 *ObsidianBlade* and *ObsidianBlade-DraculaFriendly* were both tested on IntelliJ 13.x
 
-Importing ObsidianBlade:
-========================
+Importing ObsidianBlade
+=======================
 
 1.  Download the latest [settings.jar](https://github.com/staslev/ObsidianBlade/raw/master/settings.jar).
 2.  From IntelliJ, go to <code>File</code> then <code>Import Settings</code> and specify the <code>settings.jar</code> file you've downloaded in the previous step.
 3.  (*Optional*) Download the [Source Code Pro]("http://sourceforge.net/projects/sourcecodepro.adobe/files/SourceCodePro_FontsOnly-1.017.zip/download") font to complement ObsidianBlade (and your IntelliJ in general), though things will still work if you don't.
+
+Building ObsidianBlade:
+=======================
+
+1.  Download and extract the latest sources ([ObsidianBlade-master.zip](https://github.com/staslev/ObsidianBlade/archive/master.zip)).
+2.  Execute <code>buildSettings.sh</code> to generate a <code>settings.jar</code> file.
+3.  Perform steps <code>2-3</code> from the [Importing ObsidianBlade](https://github.com/staslev/ObsidianBlade#importing-obsidianblade) section above.
