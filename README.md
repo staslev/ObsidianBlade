@@ -25,7 +25,7 @@ Importing ObsidianBlade
 2.  From IntelliJ, go to <code>File</code> then <code>Import Settings</code> and specify the <code>settings.jar</code> file you've downloaded in the previous step.
 
 ######(Optional) Installing the "Source Code Pro" font:
-1.  Download the [Source Code Pro]("http://sourceforge.net/projects/sourcecodepro.adobe/files/SourceCodePro_FontsOnly-1.017.zip/download") font to complement ObsidianBlade (and your IntelliJ in general).
+1.  Download the [Source Code Pro](http://downloads.sourceforge.net/project/sourcecodepro.adobe/SourceCodePro_FontsOnly-1.017.zip) font to complement ObsidianBlade (and your IntelliJ in general).
 2.  Go to <code>File</code> then <code>Settings</code>, click on <code>Editor</code>, <code>Colors &amp; Fonts</code> then <code>Font</code> and set <code>Source Code Pro</code> under the <code>Primary font</code> combo box.
 
 Building ObsidianBlade:
