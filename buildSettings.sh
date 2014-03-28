@@ -1,1 +1,11 @@
-jar cfM settings.jar options colors 'IntelliJ IDEA Global Settings'
+echo "Building an importable settings.jar file..."
+mkdir colors
+cp ObsidianBlade-DraculaFriendly.icls colors
+cp ObsidianBlade.icls colors
+touch IntelliJ\ IDEA\ Global\ Settings
+
+jar cfM settings.jar IntelliJ\ IDEA\ Global\ Settings colors
+
+rm -r colors
+rm IntelliJ\ IDEA\ Global\ Settings
+echo "Done."

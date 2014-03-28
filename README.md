@@ -3,12 +3,12 @@ ObsidianBlade - A color scheme for IntellJ IDEA
 
 ###Java
 
-![ObsidianBlade - Obsidian based color scheme](https://raw2.github.com/staslev/ObsidianBlade/master/colors/ObsidianBlade-with-Java-1.png "ObsidianBlade for Java")
+![ObsidianBlade - Obsidian based color scheme](https://raw2.github.com/staslev/ObsidianBlade/master/screenshots/ObsidianBlade-with-Java-1.png "ObsidianBlade for Java")
 
 ###Scala
 
-![ObsidianBlade - Obsidian based color scheme](https://raw2.github.com/staslev/ObsidianBlade/master/colors/ObsidianBlade-with-Scala-1.png "ObsidianBlade for Scala")
-![ObsidianBlade - Obsidian based color scheme](https://raw2.github.com/staslev/ObsidianBlade/master/colors/ObsidianBlade-with-Scala-2.png "ObsidianBlade for Scala")
+![ObsidianBlade - Obsidian based color scheme](https://raw2.github.com/staslev/ObsidianBlade/master/screenshots/ObsidianBlade-with-Scala-1.png "ObsidianBlade for Scala")
+![ObsidianBlade - Obsidian based color scheme](https://raw2.github.com/staslev/ObsidianBlade/master/screenshots/ObsidianBlade-with-Scala-2.png "ObsidianBlade for Scala")
 
 **ObsidianBlade** is a spin off the classic [Obsidian] (http://ideacolorthemes.org/themes/2/) the source of which I actually wanted to fork, but couldn't quite find the repo. Anyhow, thanks Morinar!
 
