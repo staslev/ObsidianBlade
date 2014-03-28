@@ -23,5 +23,4 @@ Importing ObsidianBlade:
 
 1.  Download and extract the sources ([ObsidianBlade-master.zip](https://github.com/staslev/ObsidianBlade/archive/master.zip)).
 2.  Execute <code>buildSettings.sh</code> to generate a <code>settings.jar</code> file.
-3.  From IntelliJ, go to <code>File</code> then <code>Import Settings</code> and specify the <code>settings.jar</code> file you've just generated.
-
+3.  From IntelliJ, go to <code>File</code> then <code>Import Settings</code> and specify the <code>settings.jar</code> file you've generated in the previous step.
