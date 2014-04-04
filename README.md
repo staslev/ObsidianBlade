@@ -12,7 +12,7 @@ ObsidianBlade - A color scheme for IntellJ IDEA
 
 **ObsidianBlade** is a spin off the classic [Obsidian] (http://ideacolorthemes.org/themes/2/) the source of which I actually wanted to fork, but couldn't quite find the repo. Anyhow, thanks Morinar!
 
-ObsidianBlade targets mainly <code>Java</code> and <code>Scala</code> (and some <code>Bash</code>) and introduces a fine-grained semantic color coding that allows one to easily tell apart semantic constructs with a glimpse of an eye. Class memebers, method parameters, local variables all have their own color, making code both pretty and easy to read.
+ObsidianBlade targets mainly <code>Java</code> and <code>Scala</code> (and some <code>Bash</code>) and introduces a fine-grained semantic color coding that allows one to easily tell apart semantic constructs in a glimpse of an eye. Class memebers, method parameters, local variables all have their own color, making code both pretty and easy to read.
 
 **ObsidianBlade-DraculaFriendly** is basically ObsidianBlade with some minor environmental changes that make it suitable for use with IntelliJ's built in Dracula theme.
 
