@@ -404,7 +404,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="ffcd22" />
+        <option name="FOREGROUND" value="ec9016" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -536,7 +536,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2d6099" />
+        <option name="BACKGROUND" value="21446f" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -722,7 +722,43 @@
     </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e0e2e4" />
+        <option name="FOREGROUND" value="d7c849" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="RDOC_DIRECTIVE">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="RDOC_EMAIL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="RDOC_HEADINGS">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="RDOC_IDENTIFIER">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="RDOC_KEYWORD">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="RDOC_URL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -878,6 +914,24 @@
     <option name="Scala Pattern value">
       <value>
         <option name="FOREGROUND" value="749d9d" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="Scala Template lazy val/var">
+      <value>
+        <option name="FOREGROUND" value="b79485" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="Scala Template val">
+      <value>
+        <option name="FOREGROUND" value="a082bd" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="Scala Template var">
+      <value>
+        <option name="FOREGROUND" value="c882bd" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
