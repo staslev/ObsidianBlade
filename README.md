@@ -14,17 +14,15 @@ ObsidianBlade - A color scheme for IntellJ IDEA
 
 ObsidianBlade targets mainly <code>Java</code> and <code>Scala</code> (and some <code>Bash</code>) and introduces a fine-grained semantic color coding that allows one to easily tell apart semantic constructs in a glimpse of an eye. Class memebers, method parameters, local variables all have their own color, making code both pretty and easy to read.
 
-**ObsidianBlade-DraculaFriendly** is basically ObsidianBlade with some minor environmental changes that make it suitable for use with IntelliJ's built in Dracula theme.
-
-*ObsidianBlade* and *ObsidianBlade-DraculaFriendly* were both tested on IntelliJ 13.x
+*ObsidianBlade* was tested on IntelliJ ~~13.x~~, 14.x.
 
 Importing ObsidianBlade
 =======================
 
 1.  Download the latest [settings.jar](https://github.com/staslev/ObsidianBlade/raw/master/settings.jar).
 2.  From IntelliJ, go to <code>File</code> then <code>Import Settings</code> and specify the <code>settings.jar</code> file you've downloaded in the previous step.
-3.  From IntelliJ, go to <code>File</code> then <code>Settings</code>, then <code>Colors & Fonts</code> and select the ObsidianBlade(-DraculaFriendly) color scheme.
-4.  If you're into the dark scheme, mare sure to also set IntelliJ's theme to Darcula by going to <code>File</code> then <code>Settings</code>, then <code>Appearance</code> and set the "Theme" to <code>Darcula</code>.
+3.  Make sure to set IntelliJ's theme to Darcula by going to <code>File</code> then <code>Settings</code>, then <code>Appearance</code> and set the "Theme" to <code>Darcula</code>.
+4.  From IntelliJ, go to <code>File</code> then <code>Settings</code>, then <code>Colors & Fonts</code> and select the ObsidianBlade color scheme.
 
 ######(Optional) Installing the "Source Code Pro" font:
 1.  Download the [Source Code Pro](http://downloads.sourceforge.net/project/sourcecodepro.adobe/SourceCodePro_FontsOnly-1.017.zip) font to complement ObsidianBlade (and your IntelliJ in general).
