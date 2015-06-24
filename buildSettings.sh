@@ -1,6 +1,5 @@
 echo "Building an importable settings.jar file..."
 mkdir colors
-cp ObsidianBlade-DraculaFriendly.icls colors
 cp ObsidianBlade.icls colors
 touch IntelliJ\ IDEA\ Global\ Settings
 
