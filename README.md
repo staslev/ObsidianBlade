@@ -14,7 +14,7 @@ ObsidianBlade - A color scheme for IntellJ IDEA
 
 ObsidianBlade targets mainly <code>Java</code> and <code>Scala</code> (and some <code>Bash</code>) and introduces a fine-grained semantic color coding that allows one to easily tell apart semantic constructs in a glimpse of an eye. Class memebers, method parameters, local variables all have their own color, making code both pretty and easy to read.
 
-*ObsidianBlade* was tested on IntelliJ ~~13.x~~, 14.x.
+*ObsidianBlade* was tested on IntelliJ ~~13.x~~, 14.x, 15 EAP.
 
 Importing ObsidianBlade
 =======================
