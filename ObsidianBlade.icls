@@ -588,7 +588,9 @@
     <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="RDOC_DIRECTIVE">
       <value>
         <option name="FONT_TYPE" value="1" />
