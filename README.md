@@ -1,5 +1,5 @@
-ObsidianBlade - Unleash the power of semantic coloring!
------------------------------------------------
+ObsidianBlade - A semantic coloring theme for IntelliJ IDEA
+----------------------------------------------------------
 
 ###Scala
 
