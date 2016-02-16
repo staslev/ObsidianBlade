@@ -48,7 +48,6 @@
         <option name="FOREGROUND" value="7ca8cf" />
       </value>
     </option>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="20a054" />
@@ -499,7 +498,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
@@ -582,15 +580,6 @@
         <option name="FOREGROUND" value="d7c849" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
-    <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="RDOC_DIRECTIVE">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -649,6 +638,41 @@
         <option name="FOREGROUND" value="cf3f9a" />
       </value>
     </option>
+    <option name="Scala Abstract class">
+      <value>
+        <option name="FOREGROUND" value="7ca8cf" />
+      </value>
+    </option>
+    <option name="Scala Annotation attribute name">
+      <value>
+        <option name="FOREGROUND" value="c6c9cb" />
+      </value>
+    </option>
+    <option name="Scala Annotation name">
+      <value>
+        <option name="FOREGROUND" value="20a054" />
+      </value>
+    </option>
+    <option name="Scala Anonymous Parameter">
+      <value>
+        <option name="FOREGROUND" value="b09847" />
+      </value>
+    </option>
+    <option name="Scala Class">
+      <value>
+        <option name="FOREGROUND" value="7ca8cf" />
+      </value>
+    </option>
+    <option name="Scala Class method call">
+      <value>
+        <option name="FOREGROUND" value="53c0c3" />
+      </value>
+    </option>
+    <option name="Scala For statement value">
+      <value>
+        <option name="FOREGROUND" value="b69cb7" />
+      </value>
+    </option>
     <option name="Scala Immutable Collection">
       <value>
         <option name="FOREGROUND" value="a37a4e" />
@@ -664,6 +688,11 @@
         <option name="FOREGROUND" value="b79485" />
       </value>
     </option>
+    <option name="Scala Local value">
+      <value>
+        <option name="FOREGROUND" value="c6c9cb" />
+      </value>
+    </option>
     <option name="Scala Local variable">
       <value>
         <option name="FOREGROUND" value="bc5f74" />
@@ -677,6 +706,21 @@
     <option name="Scala Mutable Collection">
       <value>
         <option name="FOREGROUND" value="f15f74" />
+      </value>
+    </option>
+    <option name="Scala Object">
+      <value>
+        <option name="FOREGROUND" value="7ca8cf" />
+      </value>
+    </option>
+    <option name="Scala Object method call">
+      <value>
+        <option name="FOREGROUND" value="cf3f9a" />
+      </value>
+    </option>
+    <option name="Scala Parameter">
+      <value>
+        <option name="FOREGROUND" value="e9ce53" />
       </value>
     </option>
     <option name="Scala Pattern value">
@@ -699,11 +743,22 @@
         <option name="FOREGROUND" value="c882bd" />
       </value>
     </option>
+    <option name="Scala Trait">
+      <value>
+        <option name="FOREGROUND" value="7ca8cf" />
+      </value>
+    </option>
     <option name="Scala Type Alias">
       <value>
         <option name="FOREGROUND" value="e8e2b7" />
       </value>
     </option>
+    <option name="Scala Type parameter">
+      <value>
+        <option name="FOREGROUND" value="668f97" />
+      </value>
+    </option>
+    <option name="Standart Java Collection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="660e7a" />
