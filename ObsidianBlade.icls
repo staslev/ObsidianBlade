@@ -680,7 +680,7 @@
     </option>
     <option name="Scala Local lazy val/var">
       <value>
-        <option name="FOREGROUND" value="b69cb7" />
+        <option name="FOREGROUND" value="d1737e" />
       </value>
     </option>
     <option name="Scala Local method call">
@@ -695,7 +695,7 @@
     </option>
     <option name="Scala Local variable">
       <value>
-        <option name="FOREGROUND" value="bc5f74" />
+        <option name="FOREGROUND" value="d1737e" />
       </value>
     </option>
     <option name="Scala Method declaration">
@@ -740,7 +740,7 @@
     </option>
     <option name="Scala Template var">
       <value>
-        <option name="FOREGROUND" value="c882bd" />
+        <option name="FOREGROUND" value="d1737e" />
       </value>
     </option>
     <option name="Scala Trait">
