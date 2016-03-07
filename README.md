@@ -3,7 +3,7 @@ ObsidianBlade - A semantic coloring theme for IntelliJ IDEA
 
 ###Scala
 
-![ObsidianBlade - Obsidian based color scheme](https://github.com/staslev/ObsidianBlade/blob/master/screenshots/ObsidianBlade-with-Scala-1.png "ObsidianBlade for Scala")
+![ObsidianBlade - Obsidian based color scheme](https://raw.githubusercontent.com/staslev/ObsidianBlade/master/screenshots/ObsidianBlade-with-Scala-1.png "ObsidianBlade for Scala")
 
 ###Java (a slightly outdated screenshot)
 
