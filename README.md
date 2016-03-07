@@ -7,7 +7,7 @@ ObsidianBlade - A semantic coloring theme for IntelliJ IDEA
 
 ###Java (a slightly outdated screenshot)
 
-![ObsidianBlade - Obsidian based color scheme](https://github.com/staslev/ObsidianBlade/blob/master/screenshots/ObsidianBlade-with-Java-1.png "ObsidianBlade for Java")
+![ObsidianBlade - Obsidian based color scheme](https://raw.githubusercontent.com/staslev/ObsidianBlade/master/screenshots/ObsidianBlade-with-Java-1.png "ObsidianBlade for Java")
 
 **ObsidianBlade** is a spin off the classic [Obsidian] (http://ideacolorthemes.org/themes/2/) the source of which I actually wanted to fork, but couldn't quite find the repo. Anyhow, thanks Morinar!
 
