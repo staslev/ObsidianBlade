@@ -398,6 +398,8 @@
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
+        <option name="EFFECT_COLOR" value="d91f18" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DIFF_CONFLICT">
