@@ -1,7 +1,8 @@
-<scheme name="ObsidianBlade" version="142" parent_scheme="Darcula">
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+<scheme name="ObsidianBlade" version="142" parent_scheme="Dracula">
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -65,7 +66,7 @@
     </option>
     <option name="BASH.HERE_DOC">
       <value>
-        <option name="BACKGROUND" value="5f6c4c" />
+        <option name="BACKGROUND" value="748551" />
       </value>
     </option>
     <option name="BASH.INTERNAL_COMMAND">
@@ -371,7 +372,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="e0e2e4" />
+        <option name="FOREGROUND" value="de73b5" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -509,6 +510,13 @@
         <option name="FOREGROUND" value="e0e2e4" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="d3cac4" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a082bd" />
@@ -633,17 +641,7 @@
         <option name="FOREGROUND" value="db6a21" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ad57a5" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="cf3f9a" />
-      </value>
-    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="Scala Abstract class">
       <value>
         <option name="FOREGROUND" value="7ca8cf" />
@@ -716,12 +714,7 @@
     </option>
     <option name="Scala Object">
       <value>
-        <option name="FOREGROUND" value="409df3" />
-      </value>
-    </option>
-    <option name="Scala Object method call">
-      <value>
-        <option name="FOREGROUND" value="cf3f9a" />
+        <option name="FOREGROUND" value="7ca8cf" />
       </value>
     </option>
     <option name="Scala Parameter">
@@ -764,7 +757,6 @@
         <option name="FOREGROUND" value="668f97" />
       </value>
     </option>
-    <option name="Standart Java Collection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="660e7a" />
