@@ -6,7 +6,7 @@
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
-    <option name="ANNOTATIONS_COLOR" value="db4c13" />
+    <option name="ANNOTATIONS_COLOR" value="0" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="bd4a13" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="0" />
@@ -56,7 +56,7 @@
     </option>
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7ca8cf" />
+        <option name="FOREGROUND" value="95d2e8" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
@@ -271,7 +271,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="53c0c3" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -332,7 +332,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="a082bd" />
+        <option name="FOREGROUND" value="20a054" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -367,7 +367,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="db6a21" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -495,7 +495,7 @@
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7ca8cf" />
+        <option name="FOREGROUND" value="a29be2" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -519,7 +519,12 @@
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a082bd" />
+        <option name="FOREGROUND" value="e2a1c7" />
+      </value>
+    </option>
+    <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="9992d8" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
@@ -565,11 +570,6 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff0027" />
-      </value>
-    </option>
-    <option name="METHOD_CALL_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="74d6cf" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
@@ -626,7 +626,12 @@
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bcbcbc" />
+        <option name="FOREGROUND" value="d1737e" />
+      </value>
+    </option>
+    <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d1737e" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -636,12 +641,6 @@
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="db6a21" />
-      </value>
-    </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="Scala Abstract class">
       <value>
         <option name="FOREGROUND" value="7ca8cf" />
@@ -665,11 +664,6 @@
     <option name="Scala Class">
       <value>
         <option name="FOREGROUND" value="7ca8cf" />
-      </value>
-    </option>
-    <option name="Scala Class method call">
-      <value>
-        <option name="FOREGROUND" value="53c0c3" />
       </value>
     </option>
     <option name="Scala For statement value">
