@@ -64,6 +64,11 @@
         <option name="FOREGROUND" value="e0e2e4" />
       </value>
     </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="6eccde" />
+      </value>
+    </option>
     <option name="BASH.HERE_DOC">
       <value>
         <option name="BACKGROUND" value="748551" />
@@ -72,6 +77,39 @@
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="7ca8cf" />
+      </value>
+    </option>
+    <option name="BASH.VAR_DEF">
+      <value>
+        <option name="FOREGROUND" value="e2a1c7" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="61614b" />
+        <option name="EFFECT_COLOR" value="323232" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="65686a" />
+        <option name="EFFECT_COLOR" value="323232" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="797d7f" />
+        <option name="EFFECT_COLOR" value="323232" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="828282" />
+        <option name="EFFECT_COLOR" value="464646" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
