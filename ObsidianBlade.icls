@@ -1,4 +1,4 @@
-<scheme name="ObsidianBlade" version="142" parent_scheme="Dracula">
+<scheme name="ObsidianBlade" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -350,7 +350,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="93c763" />
-        <option name="BACKGROUND" value="293134" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
