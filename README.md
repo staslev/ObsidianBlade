@@ -15,7 +15,7 @@ ObsidianBlade targets mainly <code>Java</code> and <code>Scala</code> (and some 
 
 IntelliJ version compatability:
 =======================
-* For IntelliJ 16.x use the `master` branch
+* For IntelliJ 16.x, 17.x use the `master` branch
 * For IntelliJ 13.x, 14.x, 15.x use the `v1.0` tag
 
 Importing ObsidianBlade
