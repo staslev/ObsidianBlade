@@ -26,7 +26,7 @@ Importing ObsidianBlade
 3.  Make sure to set IntelliJ's theme to Darcula by going to <code>File</code> then <code>Settings</code>, then <code>Appearance</code> and set the "Theme" to <code>Darcula</code>.
 4.  From IntelliJ, go to <code>File</code> then <code>Settings</code>, then <code>Colors & Fonts</code> and select the ObsidianBlade color scheme.
 
-######(Optional) Installing the "Source Code Pro" font:
+###### (Optional) Installing the "Source Code Pro" font:
 1.  Download the [Source Code Pro](http://downloads.sourceforge.net/project/sourcecodepro.adobe/SourceCodePro_FontsOnly-1.017.zip) font to complement ObsidianBlade (and your IntelliJ in general).
 2.  Go to <code>File</code> then <code>Settings</code>, click on <code>Editor</code>, <code>Colors &amp; Fonts</code> then <code>Font</code> and set <code>Source Code Pro</code> under the <code>Primary font</code> combo box.
 
