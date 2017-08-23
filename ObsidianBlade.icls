@@ -6,27 +6,11 @@
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
-    <option name="ANNOTATIONS_COLOR" value="0" />
+    <option name="ANNOTATIONS_COLOR" value="c9c9c9" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="bd4a13" />
-    <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="293134" />
-    <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_COPIED" value="48c8a" />
-    <option name="FILESTATUS_DELETED" value="6c6c6c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_MERGED" value="9876aa" />
-    <option name="FILESTATUS_MODIFIED" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
-    <option name="FILESTATUS_UNKNOWN" value="d1675a" />
-    <option name="FILESTATUS_addedOutside" value="629755" />
-    <option name="FILESTATUS_changelistConflict" value="d5756c" />
-    <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="293134" />
     <option name="INDENT_GUIDE" value="804000" />
     <option name="LINE_NUMBERS_COLOR" value="81969a" />
@@ -41,12 +25,16 @@
     <option name="SELECTION_BACKGROUND" value="1b1b55" />
     <option name="SELECTION_FOREGROUND" value="e0e2e4" />
     <option name="TEARLINE_COLOR" value="2f393c" />
-    <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="7ca8cf" />
+      </value>
+    </option>
+    <option name="ABSTRACT_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="53c0c3" />
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -84,34 +72,6 @@
         <option name="FOREGROUND" value="e2a1c7" />
       </value>
     </option>
-    <option name="BREADCRUMBS_CURRENT">
-      <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="61614b" />
-        <option name="EFFECT_COLOR" value="323232" />
-      </value>
-    </option>
-    <option name="BREADCRUMBS_DEFAULT">
-      <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="65686a" />
-        <option name="EFFECT_COLOR" value="323232" />
-      </value>
-    </option>
-    <option name="BREADCRUMBS_HOVERED">
-      <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="797d7f" />
-        <option name="EFFECT_COLOR" value="323232" />
-      </value>
-    </option>
-    <option name="BREADCRUMBS_INACTIVE">
-      <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="828282" />
-        <option name="EFFECT_COLOR" value="464646" />
-      </value>
-    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="68272f" />
@@ -125,11 +85,6 @@
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="7ca8cf" />
-      </value>
-    </option>
-    <option name="CONSOLE_BLUE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="5394ec" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
@@ -157,11 +112,6 @@
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
         <option name="BACKGROUND" value="293134" />
-      </value>
-    </option>
-    <option name="CONSOLE_RED_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff6b68" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -444,38 +394,9 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
-    <option name="DIFF_CONFLICT">
-      <value>
-        <option name="BACKGROUND" value="45302b" />
-        <option name="ERROR_STRIPE_COLOR" value="8f5247" />
-      </value>
-    </option>
-    <option name="DIFF_DELETED">
-      <value>
-        <option name="BACKGROUND" value="484a4a" />
-        <option name="ERROR_STRIPE_COLOR" value="656e76" />
-      </value>
-    </option>
-    <option name="DIFF_INSERTED">
-      <value>
-        <option name="BACKGROUND" value="294436" />
-        <option name="ERROR_STRIPE_COLOR" value="447152" />
-      </value>
-    </option>
-    <option name="DIFF_MODIFIED">
-      <value>
-        <option name="BACKGROUND" value="385570" />
-        <option name="ERROR_STRIPE_COLOR" value="43698d" />
-      </value>
-    </option>
     <option name="DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="a082bd" />
-      </value>
-    </option>
-    <option name="DUPLICATE_FROM_SERVER">
-      <value>
-        <option name="BACKGROUND" value="5e5339" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
@@ -556,7 +477,7 @@
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e2a1c7" />
+        <option name="FOREGROUND" value="d1737e" />
       </value>
     </option>
     <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
@@ -584,6 +505,7 @@
         <option name="FOREGROUND" value="ec7600" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bcbcbc" />
@@ -617,13 +539,6 @@
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="255282" />
-      </value>
-    </option>
-    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="EFFECT_COLOR" value="808080" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="PARAMETER_ATTRIBUTES">
@@ -678,6 +593,12 @@
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="db6a21" />
+      </value>
+    </option>
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="Scala Abstract class">
       <value>
         <option name="FOREGROUND" value="7ca8cf" />
@@ -830,11 +751,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="UNMATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="d1243b" />
-      </value>
-    </option>
     <option name="Unresolved reference access">
       <value>
         <option name="FOREGROUND" value="db1b32" />
@@ -869,5 +785,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
   </attributes>
 </scheme>
