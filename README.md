@@ -23,7 +23,7 @@ Importing ObsidianBlade
 
 1.  Download the latest [settings.jar](https://github.com/staslev/ObsidianBlade/raw/master/settings.jar).
 2.  From IntelliJ, go to <code>File</code> then <code>Import Settings</code> and specify the <code>settings.jar</code> file you've downloaded in the previous step.
-3.  Make sure to set IntelliJ's theme to Darcula by going to <code>File</code> then <code>Settings</code>, then <code>Appearance</code> and set the "Theme" to <code>Darcula</code>.
+3.  Make sure to set IntelliJ's theme to `Darcula` by going to <code>File</code> then <code>Settings</code>, then <code>Appearance</code> and set the "Theme" to <code>Darcula</code>.
 4.  From IntelliJ, go to <code>File</code> then <code>Settings</code>, then <code>Colors & Fonts</code> and select the ObsidianBlade color scheme.
 
 ###### (Optional) Installing the "Source Code Pro" font:
