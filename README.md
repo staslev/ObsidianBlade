@@ -11,7 +11,7 @@ ObsidianBlade - A semantic coloring theme for IntelliJ IDEA
 
 **ObsidianBlade** is a spin off of the classic [Obsidian](http://ideacolorthemes.org/themes/2/), the source of which I actually wanted to fork, but couldn't quite find the repo. Anyhow, thanks Morinar!
 
-ObsidianBlade targets mainly `Java` and `Scala` (and some `Bash`) and introduces a fine-grained semantic color coding that allows one to easily tell apart semantic constructs in a glimpse of an eye. Class memebers, method parameters, local variables all have their own color, making code both pretty and easy to read.
+[ObsidianBlade](https://www.google.co.il/search?q=What+is+obsidian+blade) targets mainly `Java` and `Scala` (and some `Bash`) and introduces a fine-grained semantic color coding that allows one to easily tell apart semantic constructs in a glimpse of an eye. Class memebers, method parameters, local variables all have their own color, making code both pretty and easy to read.
 
 IntelliJ version compatability:
 =======================
@@ -41,3 +41,7 @@ Building ObsidianBlade:
 4.  Download and extract the latest sources ([ObsidianBlade-master.zip](https://github.com/staslev/ObsidianBlade/archive/master.zip)).
 5.  Execute `buildSettings.sh` to generate a `settings.jar` file.
 6.  Perform the steps described in [Importing ObsidianBlade](https://github.com/staslev/ObsidianBlade#importing-obsidianblade) **starting from step 2**.
+
+Contributing
+==============
+Help is much appreciated, feel free to provide feedback, report issues, suggest PRs, etc.
