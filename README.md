@@ -32,7 +32,7 @@ Importing ObsidianBlade
 	2. Click on `Preferences`, then `Editor`, then the `Color Scheme` and set `ObsidianBlade` as the color scheme
 
 ###### (Optional) Installing the "Source Code Pro" font:
-1.  Download the [Source Code Pro](http://downloads.sourceforge.net/project/sourcecodepro.adobe/SourceCodePro_FontsOnly-1.017.zip) font to complement ObsidianBlade (and your IntelliJ in general).
+1.  Download the [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) font to complement ObsidianBlade (and your IntelliJ in general).
 2. Go to `IntelliJ IDEA` menu (top menu bar), click on `Preferences`, then `Editor`, then `Font` and set the font to `Source Code Pro`
 
 Building ObsidianBlade:
