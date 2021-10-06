@@ -21,26 +21,26 @@ IntelliJ version compatability:
 Importing ObsidianBlade
 =======================
 
-1.  Download the latest [settings.jar](https://github.com/staslev/ObsidianBlade/raw/master/settings.jar).
-2.  From IntelliJ, go to `File` then `Import Settings` and specify the `settings.jar` file you've downloaded in the previous step.
-3. Make sure to set IntelliJ's theme to `Darcula` :
-	1. Go to `IntelliJ IDEA` menu (top menu bar)
-	2. Click on `Preferences`, then `Appearance & Behavior`, then  `Appearance`
-	3. Set the `Scheme` to `Darcula`
-4.  Finally, set the color scheme to `ObsidianBlade`:
-	1. Go to `IntelliJ IDEA` menu (top menu bar)
-	2. Click on `Preferences`, then `Editor`, then the `Color Scheme` and set `ObsidianBlade` as the color scheme
+1. Download the latest [settings.jar](https://github.com/staslev/ObsidianBlade/raw/master/settings.jar).
+2. From IntelliJ, go to `File`, then `Managde IDE Settings`, then `Import Settings` and specify the `settings.jar` file you've downloaded in the previous step.
+3. Make sure to set IntelliJ's theme to `Darcula` (skip to step 4 if `Darcula` is already set):
+    1. Go to `IntelliJ IDEA` menu (top menu bar)
+    2. Click on `Preferences`, then `Appearance & Behavior`, then  `Appearance`
+    3. Set the `Theme` to `Darcula`
+4. Finally, set the color scheme to `ObsidianBlade`:
+    1. Go to `IntelliJ IDEA` menu (top menu bar)
+    2. Click on `Preferences`, then `Editor`, then the `Color Scheme` and set `ObsidianBlade` as the color scheme
 
 ###### (Optional) Installing the "Source Code Pro" font:
-1.  Download the [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) font to complement ObsidianBlade (and your IntelliJ in general).
-2. Go to `IntelliJ IDEA` menu (top menu bar), click on `Preferences`, then `Editor`, then `Font` and set the font to `Source Code Pro`
+1. Go to `IntelliJ IDEA` menu (top menu bar), click on `Preferences`, then `Editor`, then `Font` and set the font to `Source Code Pro`
+(In case the "Source Code Pro" font it missing, it can be downloaded [here](https://fonts.google.com/specimen/Source+Code+Pro))
 
 Building ObsidianBlade:
 =======================
 
-4.  Download and extract the latest sources ([ObsidianBlade-master.zip](https://github.com/staslev/ObsidianBlade/archive/master.zip)).
-5.  Execute `buildSettings.sh` to generate a `settings.jar` file.
-6.  Perform the steps described in [Importing ObsidianBlade](https://github.com/staslev/ObsidianBlade#importing-obsidianblade) **starting from step 2**.
+4. Download and extract the latest sources ([ObsidianBlade-master.zip](https://github.com/staslev/ObsidianBlade/archive/master.zip)).
+5. Execute `buildSettings.sh` to generate a `settings.jar` file.
+6. Perform the steps described in [Importing ObsidianBlade](https://github.com/staslev/ObsidianBlade#importing-obsidianblade) **starting from step 2**.
 
 Contributing
 ==============
