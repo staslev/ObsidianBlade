@@ -22,7 +22,7 @@ Importing ObsidianBlade
 =======================
 
 1. Download the latest [settings.jar](https://github.com/staslev/ObsidianBlade/raw/master/settings.jar).
-2. From IntelliJ, go to `File`, then `Managde IDE Settings`, then `Import Settings` and specify the `settings.jar` file you've downloaded in the previous step.
+2. From IntelliJ, go to `File`, then `Manage IDE Settings`, then `Import Settings` and specify the `settings.jar` file you've downloaded in the previous step.
 3. Make sure to set IntelliJ's theme to `Darcula` (skip to step 4 if `Darcula` is already set):
     1. Go to `IntelliJ IDEA` menu (top menu bar)
     2. Click on `Preferences`, then `Appearance & Behavior`, then  `Appearance`
